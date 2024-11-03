@@ -1,8 +1,39 @@
-# React + Vite
+# World Ranks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application that displays information about countries around the world.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- List all countries with their basic information
+- View detailed information about each country
+- Favorite countries functionality
+- Responsive design
+
+## Technologies Used
+
+- React
+- React Router
+- Tailwind CSS
+- Vite
+
+## Getting Started
+
+1. Clone the repository:
+   git clone https://github.com/YOUR_USERNAME/world-ranks.git
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server:
+   npm run dev
+
+
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+[Vini Pereira](https://github.com/vinipereira-io)
