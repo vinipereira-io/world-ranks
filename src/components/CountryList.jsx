@@ -7,6 +7,7 @@ function CountryList() {
     { id: 'US', name: 'United States', population: '331,002,651', region: 'Americas' },
     { id: 'GB', name: 'United Kingdom', population: '67,886,011', region: 'Europe' },
     { id: 'FR', name: 'France', population: '67,391,582', region: 'Europe' },
+    { id: 'BR', name: 'Brazil', population: '214,300,000', region: 'Americas' },
     // Add more mock data as needed
   ];
 
